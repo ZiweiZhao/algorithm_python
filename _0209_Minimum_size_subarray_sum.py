@@ -1,3 +1,4 @@
+# two pointer 同向双指针 sliding window
 class Solution:
     def minSubArrayLen(self, s, nums):
         """
